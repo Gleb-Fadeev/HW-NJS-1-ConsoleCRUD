@@ -2,8 +2,7 @@ const readline = require('readline');
 
 let filmArr = ['Quick', 'Paradise Hills', 'Dr. Sleep', 'Alladin', 'Inside'];
 
-console.log('Hello, thats my CLI with CRUD function');
-//
+
 startApp();
 
 async function startApp(){
